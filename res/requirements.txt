@@ -5,3 +5,5 @@ psutil
 opencv-python
 pillow>=8.1.0
 requests
+assemblyai
+python-dotenv

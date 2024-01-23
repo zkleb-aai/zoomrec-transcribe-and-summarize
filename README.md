@@ -9,7 +9,7 @@ Additionally, this code is designed to run on AMD64 architecture. If your comput
 ## Steps to Run this Repository
 Follow these steps to set up and run this repository:
 
-1. ### Clone the Repository:
+1. ### Clone the Repository
 2. ### Navigate to the Repo:
 ```
 cd zoomrec-transcribe-and-summarize

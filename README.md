@@ -3,6 +3,7 @@ Zoomrec Transcribe and Summarize
 </h1>
 This repository is a fork that enhances the functionality of the original repository by adding the ability to transcribe and use LeMUR. The code has been modified to run on a specific version of Zoom that the original repository does not support, as the version used in the original was causing the code to fail. Please note that this version is also not the newest version of Zoom, as the newest version also causes the code to fail.
 
+
 Additionally, this code is designed to run on AMD64 architecture. If your computer is not compatible, consider running this on a virtual machine (VM). It will not run if your computer is using ARM64.
 
 ## Steps to Run this Repository
